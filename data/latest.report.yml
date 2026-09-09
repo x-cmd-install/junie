@@ -2,12 +2,12 @@ about:
   description: "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose"
   license: NOASSERTION
   homepage: https://junie.jetbrains.com
-  head: 4f775d1
+  head: 0b1e742
   archived: false
-  latestVersion: "3220.1"
-  latestRelease: "3220.1"
+  latestVersion: "3237.1"
+  latestRelease: "3237.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:23:41Z
+  collectedAt: 2026-09-09T18:37:16Z
 timeline:
   created: 2025-04-07
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 428
+  star: 430
   watcher: 6
   fork: 32
-  release: 2351
-  contributor: 13
+  release: 2368
+  contributor: 14
   pullRequest: 28
-  issue: 72
+  issue: 73
 language:
   Shell: 277547
   PowerShell: 100827
@@ -34,61 +34,61 @@ recent:
     mergedPR: 3
     openPR: 0
     closedIssue: 0
-    openIssue: 3
-    commit: 626
+    openIssue: 4
+    commit: 657
   last60d:
     since: 2026-07-11
     release: 100
     mergedPR: 5
     openPR: 0
     closedIssue: 1
-    openIssue: 10
-    commit: 1441
+    openIssue: 11
+    commit: 1472
   last90d:
     since: 2026-06-11
     release: 100
     mergedPR: 13
     openPR: 0
     closedIssue: 2
-    openIssue: 19
-    commit: 2055
+    openIssue: 20
+    commit: 2086
   last180d:
     since: 2026-03-13
     release: 100
     mergedPR: 21
     openPR: 2
     closedIssue: 5
-    openIssue: 48
-    commit: 3425
+    openIssue: 49
+    commit: 3456
   last360d:
     since: 2025-09-14
     release: 100
     mergedPR: 24
     openPR: 2
     closedIssue: 11
-    openIssue: 57
-    commit: 3948
+    openIssue: 58
+    commit: 3979
   last720d:
     since: 2024-09-19
     release: 100
     mergedPR: 25
     openPR: 2
     closedIssue: 14
-    openIssue: 58
-    commit: 3970
+    openIssue: 59
+    commit: 4001
 total:
-  release: 2351
+  release: 2368
   mergedPR: 25
   openPR: 2
   closedIssue: 14
-  openIssue: 58
-  commit: 3970
+  openIssue: 59
+  commit: 4001
 ---
 path: /home/runner/.x-repo/github.com/JetBrains/junie
-collectedAt: 2026-09-09T04:23:48Z
+collectedAt: 2026-09-09T18:37:21Z
 loc:
   Json:
-    code: 5773
+    code: 5782
     comments: 0
     blanks: 0
     files: 4
@@ -113,11 +113,11 @@ loc:
     blanks: 67
     files: 3
 total:
-  code: 13449
+  code: 13458
   comments: 1974
   blanks: 1132
   files: 27
 ---
 
 ---
-{"id":385163727,"author":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOVh4jM4W9SHP","tag_name":"3220.1","target_commitish":"main","name":"Junie Nightly 3220.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T01:25:05Z","updated_at":"2026-09-09T01:26:37Z","published_at":"2026-09-09T01:25:06Z","assets":[{"id":551718253,"node_id":"RA_kwDOOVh4jM4g4o1t","name":"junie-nightly-3220.1-linux-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":331725448,"digest":"sha256:616a1a54abaf1ce8e517ec82928d6b6bba153662ab679af7f6d8939789c534ca","download_count":1,"created_at":"2026-09-09T01:25:07Z","updated_at":"2026-09-09T01:25:21Z"},{"id":551718543,"node_id":"RA_kwDOOVh4jM4g4o6P","name":"junie-nightly-3220.1-linux-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":332330683,"digest":"sha256:4939fdaa16f39ebe3850b39c59d206bc7fc1cf652f971544729f37d7c4893c27","download_count":35,"created_at":"2026-09-09T01:25:22Z","updated_at":"2026-09-09T01:25:37Z"},{"id":551718859,"node_id":"RA_kwDOOVh4jM4g4o_L","name":"junie-nightly-3220.1-macos-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":329313824,"digest":"sha256:64369411031d8e9cca7fbc3e6ad96123968851f33d25660e6a6b7c77de90fb8a","download_count":11,"created_at":"2026-09-09T01:25:38Z","updated_at":"2026-09-09T01:25:55Z"},{"id":551719249,"node_id":"RA_kwDOOVh4jM4g4pFR","name":"junie-nightly-3220.1-macos-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":330450918,"digest":"sha256:5028c171893f52e41d817dfb75b3c5412d1e3453a04abe4a756fcc81b16a927b","download_count":0,"created_at":"2026-09-09T01:25:55Z","updated_at":"2026-09-09T01:26:09Z"},{"id":551719501,"node_id":"RA_kwDOOVh4jM4g4pJN","name":"junie-nightly-3220.1-windows-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":361052745,"digest":"sha256:f007799d0500fd065f5f981fb93754ef17477e3c93f37a637725b54619ceaca7","download_count":0,"created_at":"2026-09-09T01:26:09Z","updated_at":"2026-09-09T01:26:23Z"},{"id":551719839,"node_id":"RA_kwDOOVh4jM4g4pOf","name":"junie-nightly-3220.1-windows-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":326958452,"digest":"sha256:d4af7e8b32d1912dbf3fc88c1632c2de32802f0e434ea577204934e4e75e4b75","download_count":5,"created_at":"2026-09-09T01:26:24Z","updated_at":"2026-09-09T01:26:36Z"},{"id":551720194,"node_id":"RA_kwDOOVh4jM4g4pUC","name":"junie.sh","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":1100,"digest":"sha256:a2b1d0ca4f2327a65ba7d96e31d35ab7678542b74de4b38a2092ab058b03b410","download_count":0,"created_at":"2026-09-09T01:26:36Z","updated_at":"2026-09-09T01:26:37Z"}],"body":null}
+{"id":385724807,"author":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOOVh4jM4W_bGH","tag_name":"3237.1","target_commitish":"main","name":"Junie Nightly 3237.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T17:41:08Z","updated_at":"2026-09-09T17:42:33Z","published_at":"2026-09-09T17:41:10Z","assets":[{"id":553257083,"node_id":"RA_kwDOOVh4jM4g-gh7","name":"junie-nightly-3237.1-linux-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":331756993,"digest":"sha256:a392022fe6e09d3eed4801c8b42dd013c5c6e06a7a48233717f213a74f465f43","download_count":0,"created_at":"2026-09-09T17:41:10Z","updated_at":"2026-09-09T17:41:23Z"},{"id":553257396,"node_id":"RA_kwDOOVh4jM4g-gm0","name":"junie-nightly-3237.1-linux-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":332362228,"digest":"sha256:ccbe536b9d751714d19908d60f5f8f555ae6004db67382af09621a7c52f48197","download_count":11,"created_at":"2026-09-09T17:41:23Z","updated_at":"2026-09-09T17:41:36Z"},{"id":553257717,"node_id":"RA_kwDOOVh4jM4g-gr1","name":"junie-nightly-3237.1-macos-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":329343780,"digest":"sha256:405f84b61a0b4cb7b6f4525c800ff6806737bac3c5fd6c015bf9890ff6ec090b","download_count":7,"created_at":"2026-09-09T17:41:37Z","updated_at":"2026-09-09T17:41:50Z"},{"id":553258087,"node_id":"RA_kwDOOVh4jM4g-gxn","name":"junie-nightly-3237.1-macos-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":330480843,"digest":"sha256:779e53741a4e5e9a94b091bf0003307b54be31fc65d74a79657ceeb8bf15ab1c","download_count":0,"created_at":"2026-09-09T17:41:51Z","updated_at":"2026-09-09T17:42:03Z"},{"id":553258426,"node_id":"RA_kwDOOVh4jM4g-g26","name":"junie-nightly-3237.1-windows-aarch64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":361080712,"digest":"sha256:059db5c26267786428c554050ea7091f33ce2423fb34ad2d9e7f82a3c098efb4","download_count":0,"created_at":"2026-09-09T17:42:04Z","updated_at":"2026-09-09T17:42:16Z"},{"id":553258741,"node_id":"RA_kwDOOVh4jM4g-g71","name":"junie-nightly-3237.1-windows-amd64.zip","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":326986419,"digest":"sha256:7b4629cba0ece10df92181222b8241869e8c9176738cf9fcdf364f901792fcfe","download_count":4,"created_at":"2026-09-09T17:42:17Z","updated_at":"2026-09-09T17:42:32Z"},{"id":553259166,"node_id":"RA_kwDOOVh4jM4g-hCe","name":"junie.sh","label":"","uploader":{"login":"junie-releases[bot]","id":266081566,"node_id":"BOT_kgDOD9wVHg","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":1100,"digest":"sha256:a2b1d0ca4f2327a65ba7d96e31d35ab7678542b74de4b38a2092ab058b03b410","download_count":0,"created_at":"2026-09-09T17:42:33Z","updated_at":"2026-09-09T17:42:33Z"}],"body":null}

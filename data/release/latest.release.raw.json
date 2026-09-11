@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 331910208,
       "digest": "sha256:f35cd5495bd2ab853cc2cd029bafb1b64983dde676087dd1194be4fc61b44c78",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:43:15Z",
       "updated_at": "2026-09-10T18:43:28Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-linux-aarch64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 332515443,
       "digest": "sha256:ff318af6729d6a16bcbd687604d3a67fcf3b6376661e9486103711fdd9c15cf0",
-      "download_count": 60,
+      "download_count": 104,
       "created_at": "2026-09-10T18:43:29Z",
       "updated_at": "2026-09-10T18:43:44Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-linux-amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 329498470,
       "digest": "sha256:423c76c150f325952021b0602a0f6d760ef155147f960163a07136f41e717b95",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-09-10T18:43:45Z",
       "updated_at": "2026-09-10T18:44:02Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-macos-aarch64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 330635548,
       "digest": "sha256:fc43d81145e950563dc7fe6690da23d5952bbd9c6d215f8157ec2dece87d23c2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T18:44:02Z",
       "updated_at": "2026-09-10T18:44:17Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-macos-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 361234470,
       "digest": "sha256:9c65e2b4516be3e9367897103f1166d2128a4aef1c49f9a00411a9e22ba64114",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T18:44:18Z",
       "updated_at": "2026-09-10T18:44:30Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-windows-aarch64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 327140171,
       "digest": "sha256:23c46a5e461abb7b10ef08349b4bc2d926d1a2e1721f208ceda47c518c4e1183",
-      "download_count": 6,
+      "download_count": 12,
       "created_at": "2026-09-10T18:44:31Z",
       "updated_at": "2026-09-10T18:44:45Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie-nightly-3261.1-windows-amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1100,
       "digest": "sha256:a2b1d0ca4f2327a65ba7d96e31d35ab7678542b74de4b38a2092ab058b03b410",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-10T18:44:45Z",
       "updated_at": "2026-09-10T18:44:46Z",
       "browser_download_url": "https://github.com/JetBrains/junie/releases/download/3261.1/junie.sh"

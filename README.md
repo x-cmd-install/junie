@@ -14,15 +14,15 @@ x install junie
 
 ## Code insight
 
-Total: **13,461** lines of code across **27** files in the top 5 languages.
+Total: **15,110** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 5,803 | 0 | 0 | 4 |
-| Sh | 5,257 | 1,499 | 870 | 12 |
-| PowerShell | 2,164 | 248 | 159 | 7 |
+| Json | 6,138 | 0 | 0 | 8 |
+| Sh | 5,433 | 1,563 | 894 | 12 |
+| PowerShell | 3,302 | 374 | 270 | 8 |
 | Batch | 237 | 75 | 36 | 1 |
-| Markdown | 0 | 152 | 67 | 3 |
+| Markdown | 0 | 235 | 101 | 4 |
 
 ## Source
 
@@ -32,40 +32,40 @@ Total: **13,461** lines of code across **27** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `3307.1` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Latest**: `3339.1` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 437 · **Forks**: 33 · **Open issues**: 75 · **Contributors**: 15
+- **Stars**: 436 · **Forks**: 32 · **Open issues**: 75 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 2418 · **Merged PRs**: 25 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 61 · **Commits**: 4092
+- **Releases**: 2431 · **Merged PRs**: 28 · **Open PRs**: 4 · **Closed issues**: 14 · **Open issues**: 61 · **Commits**: 4123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 100 | 2 | 1 | 0 | 4 | 580 |
-| last60d | 2026-07-17 | 100 | 5 | 1 | 1 | 10 | 1412 |
-| 90d | 2026-06-17 | 100 | 8 | 1 | 2 | 21 | 2018 |
-| last180d | 2026-03-19 | 100 | 21 | 3 | 4 | 49 | 3409 |
-| 360d | 2025-09-20 | 100 | 24 | 3 | 11 | 60 | 4070 |
-| last720d | 2024-09-25 | 100 | 25 | 3 | 14 | 61 | 4092 |
+| 30d | 2026-08-17 | 100 | 3 | 2 | 0 | 4 | 611 |
+| last60d | 2026-07-18 | 100 | 8 | 2 | 1 | 10 | 1443 |
+| 90d | 2026-06-18 | 100 | 11 | 2 | 2 | 20 | 2049 |
+| last180d | 2026-03-20 | 100 | 24 | 4 | 4 | 49 | 3440 |
+| 360d | 2025-09-21 | 100 | 27 | 4 | 11 | 60 | 4101 |
+| last720d | 2024-09-26 | 100 | 28 | 4 | 14 | 61 | 4123 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [junie-nightly-3307.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-linux-aarch64.zip) | 316.8 MiB | `native/linux/arm64` |
-| [junie-nightly-3307.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-linux-amd64.zip) | 317.4 MiB | `native/linux/x64` |
-| [junie-nightly-3307.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-macos-aarch64.zip) | 314.5 MiB | `native/darwin/arm64` |
-| [junie-nightly-3307.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-macos-amd64.zip) | 315.6 MiB | `native/darwin/x64` |
-| [junie-nightly-3307.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-windows-aarch64.zip) | 344.7 MiB | `native/win/arm64` |
-| [junie-nightly-3307.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3307.1/junie-nightly-3307.1-windows-amd64.zip) | 312.2 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/3307.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-3339.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-linux-aarch64.zip) | 320.2 MiB | `native/linux/arm64` |
+| [junie-nightly-3339.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-linux-amd64.zip) | 320.8 MiB | `native/linux/x64` |
+| [junie-nightly-3339.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-macos-aarch64.zip) | 318.0 MiB | `native/darwin/arm64` |
+| [junie-nightly-3339.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-macos-amd64.zip) | 319.0 MiB | `native/darwin/x64` |
+| [junie-nightly-3339.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-windows-aarch64.zip) | 348.2 MiB | `native/win/arm64` |
+| [junie-nightly-3339.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3339.1/junie-nightly-3339.1-windows-amd64.zip) | 315.7 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/3339.1/junie.sh) | 1.1 KiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:39:06Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:34:54Z._

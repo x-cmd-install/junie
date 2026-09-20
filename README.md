@@ -4,7 +4,7 @@
 
 An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose
 
-![junie](https://repo.x-cmd.io/junie.svg)
+[![x-cmd/install — junie Code Quality Monitoring Repo Card](https://repo.x-cmd.io/junie.svg)](https://x-cmd.com/install/junie)
 
 ## Install
 
@@ -32,27 +32,40 @@ Total: **17,674** lines of code across **35** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `3387.1` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `3405.1` (2026-09-19)
+- **Last commit**: 2026-09-19
+- **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 440 · **Forks**: 32 · **Open issues**: 75 · **Contributors**: 16
+- **Stars**: 445 · **Forks**: 33 · **Open issues**: 75 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 2467 · **Merged PRs**: 32 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 61 · **Commits**: 4178
+- **Releases**: 2486 · **Merged PRs**: 32 · **Open PRs**: 3 · **Closed issues**: 14 · **Open issues**: 61 · **Commits**: 4215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 100 | 7 | 1 | 0 | 4 | 666 |
-| last60d | 2026-07-20 | 100 | 11 | 1 | 1 | 10 | 1498 |
-| 90d | 2026-06-20 | 100 | 14 | 1 | 1 | 18 | 2104 |
-| last180d | 2026-03-22 | 100 | 28 | 3 | 4 | 49 | 3495 |
-| 360d | 2025-09-23 | 100 | 31 | 3 | 11 | 60 | 4156 |
-| last720d | 2024-09-28 | 100 | 32 | 3 | 14 | 61 | 4178 |
+| 30d | 2026-08-21 | 100 | 7 | 1 | 0 | 4 | 522 |
+| last60d | 2026-07-22 | 100 | 11 | 1 | 1 | 10 | 1388 |
+| 90d | 2026-06-22 | 100 | 13 | 1 | 1 | 18 | 2009 |
+| last180d | 2026-03-24 | 100 | 28 | 3 | 4 | 48 | 3415 |
+| 360d | 2025-09-25 | 100 | 31 | 3 | 11 | 60 | 4193 |
+| last720d | 2024-09-30 | 100 | 32 | 3 | 14 | 61 | 4215 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [junie-nightly-3405.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-linux-aarch64.zip) | 321.2 MiB | `native/linux/arm64` |
+| [junie-nightly-3405.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-linux-amd64.zip) | 321.7 MiB | `native/linux/x64` |
+| [junie-nightly-3405.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-macos-aarch64.zip) | 341.9 MiB | `native/darwin/arm64` |
+| [junie-nightly-3405.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-macos-amd64.zip) | 345.5 MiB | `native/darwin/x64` |
+| [junie-nightly-3405.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-windows-aarch64.zip) | 349.1 MiB | `native/win/arm64` |
+| [junie-nightly-3405.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3405.1/junie-nightly-3405.1-windows-amd64.zip) | 316.6 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/3405.1/junie.sh) | 1.1 KiB | `other` |
 
 ## Improve this data
 
@@ -63,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:24:49Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:40:20Z._

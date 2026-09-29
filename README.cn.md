@@ -32,40 +32,40 @@ x install junie
 
 ## 发布
 
-- **最新版本**: `3534.1` (2026-09-27)
-- **最近提交**: 2026-09-27
+- **最新版本**: `3555.1` (2026-09-28)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 461 · **Fork**: 34 · **开放 issue**: 77 · **贡献者**: 17
+- **Star**: 462 · **Fork**: 34 · **开放 issue**: 77 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 2554 · **已合并 PR**: 34 · **开放 PR**: 3 · **已关闭 issue**: 75 · **开放 issue**: 2 · **提交数**: 4338
+- **发布数**: 2563 · **已合并 PR**: 34 · **开放 PR**: 4 · **已关闭 issue**: 75 · **开放 issue**: 2 · **提交数**: 4356
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 100 | 9 | 2 | 5 | 0 | 466 |
-| last60d | 2026-07-30 | 100 | 13 | 2 | 11 | 1 | 1293 |
-| 90d | 2026-06-30 | 100 | 14 | 2 | 18 | 1 | 2028 |
-| last180d | 2026-04-01 | 100 | 30 | 3 | 51 | 1 | 3478 |
-| 360d | 2025-10-03 | 100 | 33 | 3 | 71 | 2 | 4316 |
-| last720d | 2024-10-08 | 100 | 34 | 3 | 75 | 2 | 4338 |
+| 30d | 2026-08-30 | 100 | 9 | 3 | 5 | 0 | 0 |
+| last60d | 2026-07-31 | 100 | 13 | 3 | 11 | 1 | 0 |
+| 90d | 2026-07-01 | 100 | 14 | 3 | 18 | 1 | 0 |
+| last180d | 2026-04-02 | 100 | 30 | 4 | 51 | 1 | 0 |
+| 360d | 2025-10-04 | 100 | 33 | 4 | 71 | 2 | 0 |
+| last720d | 2024-10-09 | 100 | 34 | 4 | 75 | 2 | 4356 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [junie-nightly-3534.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-linux-aarch64.zip) | 356.7 MiB | `native/linux/arm64` |
-| [junie-nightly-3534.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-linux-amd64.zip) | 357.2 MiB | `native/linux/x64` |
-| [junie-nightly-3534.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-macos-aarch64.zip) | 342.9 MiB | `native/darwin/arm64` |
-| [junie-nightly-3534.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-macos-amd64.zip) | 346.4 MiB | `native/darwin/x64` |
-| [junie-nightly-3534.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-windows-aarch64.zip) | 350.1 MiB | `native/win/arm64` |
-| [junie-nightly-3534.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3534.1/junie-nightly-3534.1-windows-amd64.zip) | 317.6 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/3534.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-3555.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-linux-aarch64.zip) | 356.9 MiB | `native/linux/arm64` |
+| [junie-nightly-3555.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-linux-amd64.zip) | 357.4 MiB | `native/linux/x64` |
+| [junie-nightly-3555.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-macos-aarch64.zip) | 343.0 MiB | `native/darwin/arm64` |
+| [junie-nightly-3555.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-macos-amd64.zip) | 346.6 MiB | `native/darwin/x64` |
+| [junie-nightly-3555.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-windows-aarch64.zip) | 350.3 MiB | `native/win/arm64` |
+| [junie-nightly-3555.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3555.1/junie-nightly-3555.1-windows-amd64.zip) | 317.7 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/3555.1/junie.sh) | 1.1 KiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ junie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:06:06Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:30:05Z._

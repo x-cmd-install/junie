@@ -48,12 +48,12 @@ Total: **18,529** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 100 | 10 | 2 | 5 | 0 | 582 |
-| last60d | 2026-08-05 | 100 | 13 | 2 | 9 | 0 | 1409 |
-| 90d | 2026-07-06 | 100 | 15 | 2 | 16 | 1 | 2144 |
-| last180d | 2026-04-07 | 100 | 31 | 2 | 49 | 1 | 3594 |
-| 360d | 2025-10-09 | 100 | 34 | 3 | 71 | 2 | 4432 |
-| last720d | 2024-10-14 | 100 | 35 | 3 | 75 | 2 | 4455 |
+| 30d | 2026-09-05 | 100 | 10 | 2 | 5 | 0 | 419 |
+| last60d | 2026-08-06 | 100 | 13 | 2 | 9 | 0 | 1213 |
+| 90d | 2026-07-07 | 100 | 15 | 2 | 16 | 1 | 1998 |
+| last180d | 2026-04-08 | 100 | 31 | 2 | 49 | 1 | 3474 |
+| 360d | 2025-10-10 | 100 | 34 | 3 | 71 | 2 | 4432 |
+| last720d | 2024-10-15 | 100 | 35 | 3 | 75 | 2 | 4455 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:35:30Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:19:59Z._

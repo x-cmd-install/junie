@@ -38,22 +38,22 @@ Total: **18,946** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 486 · **Forks**: 36 · **Open issues**: 80 · **Contributors**: 17
+- **Stars**: 488 · **Forks**: 36 · **Open issues**: 81 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 2777 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 75 · **Open issues**: 5 · **Commits**: 4735
+- **Releases**: 2777 · **Merged PRs**: 38 · **Open PRs**: 4 · **Closed issues**: 75 · **Open issues**: 6 · **Commits**: 4735
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 100 | 6 | 2 | 2 | 3 | 420 |
-| last60d | 2026-08-19 | 100 | 13 | 3 | 6 | 3 | 1095 |
-| 90d | 2026-07-20 | 100 | 17 | 3 | 12 | 4 | 1978 |
-| last180d | 2026-04-21 | 100 | 34 | 3 | 46 | 4 | 3548 |
-| 360d | 2025-10-23 | 100 | 37 | 4 | 70 | 5 | 4712 |
-| last720d | 2024-10-28 | 100 | 38 | 4 | 75 | 5 | 4735 |
+| 30d | 2026-09-19 | 100 | 6 | 2 | 2 | 4 | 420 |
+| last60d | 2026-08-20 | 100 | 13 | 3 | 6 | 4 | 1095 |
+| 90d | 2026-07-21 | 100 | 17 | 3 | 12 | 5 | 1978 |
+| last180d | 2026-04-22 | 100 | 34 | 3 | 45 | 5 | 3548 |
+| 360d | 2025-10-24 | 100 | 37 | 4 | 70 | 6 | 4712 |
+| last720d | 2024-10-29 | 100 | 38 | 4 | 75 | 6 | 4735 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:13:31Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:22:25Z._

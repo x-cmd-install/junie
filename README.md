@@ -32,40 +32,40 @@ Total: **19,534** lines of code across **40** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `3958.1` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Latest**: `3968.1` (2026-10-29)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 506 · **Forks**: 38 · **Open issues**: 87 · **Contributors**: 17
+- **Stars**: 511 · **Forks**: 39 · **Open issues**: 87 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 2877 · **Merged PRs**: 44 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 6 · **Commits**: 4937
+- **Releases**: 2885 · **Merged PRs**: 44 · **Open PRs**: 7 · **Closed issues**: 81 · **Open issues**: 6 · **Commits**: 4953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 100 | 9 | 4 | 4 | 6 | 511 |
-| last60d | 2026-08-30 | 100 | 19 | 6 | 9 | 6 | 1135 |
-| 90d | 2026-07-31 | 100 | 23 | 6 | 16 | 6 | 1979 |
-| last180d | 2026-05-02 | 100 | 40 | 6 | 47 | 6 | 3695 |
-| 360d | 2025-11-03 | 100 | 43 | 7 | 76 | 6 | 4914 |
-| last720d | 2024-11-08 | 100 | 44 | 7 | 81 | 6 | 4937 |
+| 30d | 2026-09-30 | 100 | 9 | 4 | 4 | 6 | 527 |
+| last60d | 2026-08-31 | 100 | 19 | 6 | 9 | 6 | 1151 |
+| 90d | 2026-08-01 | 100 | 23 | 6 | 15 | 6 | 1995 |
+| last180d | 2026-05-03 | 100 | 40 | 6 | 47 | 6 | 3711 |
+| 360d | 2025-11-04 | 100 | 43 | 7 | 76 | 6 | 4930 |
+| last720d | 2024-11-09 | 100 | 44 | 7 | 81 | 6 | 4953 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [junie-nightly-3958.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-linux-aarch64.zip) | 251.3 MiB | `native/linux/arm64` |
-| [junie-nightly-3958.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-linux-amd64.zip) | 252.3 MiB | `native/linux/x64` |
-| [junie-nightly-3958.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-macos-aarch64.zip) | 205.0 MiB | `native/darwin/arm64` |
-| [junie-nightly-3958.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-macos-amd64.zip) | 240.6 MiB | `native/darwin/x64` |
-| [junie-nightly-3958.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-windows-aarch64.zip) | 245.8 MiB | `native/win/arm64` |
-| [junie-nightly-3958.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3958.1/junie-nightly-3958.1-windows-amd64.zip) | 214.0 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/3958.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-3968.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-linux-aarch64.zip) | 251.5 MiB | `native/linux/arm64` |
+| [junie-nightly-3968.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-linux-amd64.zip) | 252.5 MiB | `native/linux/x64` |
+| [junie-nightly-3968.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-macos-aarch64.zip) | 205.2 MiB | `native/darwin/arm64` |
+| [junie-nightly-3968.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-macos-amd64.zip) | 240.8 MiB | `native/darwin/x64` |
+| [junie-nightly-3968.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-windows-aarch64.zip) | 246.0 MiB | `native/win/arm64` |
+| [junie-nightly-3968.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3968.1/junie-nightly-3968.1-windows-amd64.zip) | 214.1 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/3968.1/junie.sh) | 1.1 KiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:30:00Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:29:55Z._

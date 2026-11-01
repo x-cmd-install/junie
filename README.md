@@ -38,7 +38,7 @@ Total: **19,534** lines of code across **40** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 517 · **Forks**: 41 · **Open issues**: 87 · **Contributors**: 17
+- **Stars**: 518 · **Forks**: 40 · **Open issues**: 87 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **19,534** lines of code across **40** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 100 | 9 | 5 | 4 | 6 | 539 |
-| last60d | 2026-09-01 | 100 | 19 | 7 | 9 | 6 | 1163 |
-| 90d | 2026-08-02 | 100 | 23 | 7 | 14 | 6 | 2007 |
-| last180d | 2026-05-04 | 100 | 40 | 7 | 47 | 6 | 3723 |
-| 360d | 2025-11-05 | 100 | 43 | 8 | 76 | 6 | 4942 |
-| last720d | 2024-11-10 | 100 | 44 | 8 | 81 | 6 | 4965 |
+| 30d | 2026-10-02 | 100 | 9 | 5 | 4 | 6 | 408 |
+| last60d | 2026-09-02 | 100 | 19 | 7 | 9 | 6 | 996 |
+| 90d | 2026-08-03 | 100 | 22 | 7 | 14 | 6 | 1819 |
+| last180d | 2026-05-05 | 100 | 40 | 7 | 46 | 6 | 3642 |
+| 360d | 2025-11-06 | 100 | 43 | 8 | 76 | 6 | 4942 |
+| last720d | 2024-11-11 | 100 | 44 | 8 | 81 | 6 | 4965 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for junie lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:16:15Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:44:40Z._

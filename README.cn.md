@@ -32,40 +32,40 @@ x install junie
 
 ## 发布
 
-- **最新版本**: `3975.1` (2026-10-31)
-- **最近提交**: 2026-10-31
+- **最新版本**: `3976.1` (2026-11-02)
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 518 · **Fork**: 40 · **开放 issue**: 87 · **贡献者**: 17
+- **Star**: 522 · **Fork**: 40 · **开放 issue**: 87 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 2891 · **已合并 PR**: 44 · **开放 PR**: 8 · **已关闭 issue**: 81 · **开放 issue**: 6 · **提交数**: 4965
+- **发布数**: 2892 · **已合并 PR**: 44 · **开放 PR**: 8 · **已关闭 issue**: 81 · **开放 issue**: 6 · **提交数**: 4967
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 100 | 9 | 5 | 4 | 6 | 408 |
-| last60d | 2026-09-02 | 100 | 19 | 7 | 9 | 6 | 996 |
-| 90d | 2026-08-03 | 100 | 22 | 7 | 14 | 6 | 1819 |
-| last180d | 2026-05-05 | 100 | 40 | 7 | 46 | 6 | 3642 |
-| 360d | 2025-11-06 | 100 | 43 | 8 | 76 | 6 | 4942 |
-| last720d | 2024-11-11 | 100 | 44 | 8 | 81 | 6 | 4965 |
+| 30d | 2026-10-03 | 100 | 9 | 5 | 4 | 6 | 410 |
+| last60d | 2026-09-03 | 100 | 19 | 7 | 9 | 6 | 998 |
+| 90d | 2026-08-04 | 100 | 22 | 7 | 13 | 6 | 1821 |
+| last180d | 2026-05-06 | 100 | 40 | 7 | 46 | 6 | 3644 |
+| 360d | 2025-11-07 | 100 | 43 | 8 | 76 | 6 | 4944 |
+| last720d | 2024-11-12 | 100 | 44 | 8 | 81 | 6 | 4967 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [junie-nightly-3975.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-linux-aarch64.zip) | 251.5 MiB | `native/linux/arm64` |
-| [junie-nightly-3975.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-linux-amd64.zip) | 252.6 MiB | `native/linux/x64` |
-| [junie-nightly-3975.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-macos-aarch64.zip) | 205.2 MiB | `native/darwin/arm64` |
-| [junie-nightly-3975.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-macos-amd64.zip) | 240.9 MiB | `native/darwin/x64` |
-| [junie-nightly-3975.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-windows-aarch64.zip) | 246.1 MiB | `native/win/arm64` |
-| [junie-nightly-3975.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3975.1/junie-nightly-3975.1-windows-amd64.zip) | 214.2 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/3975.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-3976.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-linux-aarch64.zip) | 251.6 MiB | `native/linux/arm64` |
+| [junie-nightly-3976.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-linux-amd64.zip) | 252.6 MiB | `native/linux/x64` |
+| [junie-nightly-3976.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-macos-aarch64.zip) | 205.3 MiB | `native/darwin/arm64` |
+| [junie-nightly-3976.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-macos-amd64.zip) | 240.9 MiB | `native/darwin/x64` |
+| [junie-nightly-3976.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-windows-aarch64.zip) | 246.1 MiB | `native/win/arm64` |
+| [junie-nightly-3976.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/3976.1/junie-nightly-3976.1-windows-amd64.zip) | 214.2 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/3976.1/junie.sh) | 1.1 KiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ junie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T05:44:41Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T05:42:51Z._

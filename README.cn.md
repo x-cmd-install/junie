@@ -14,11 +14,11 @@ x install junie
 
 ## 代码洞察
 
-合计: **20,787** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
+合计: **20,767** 行代码（覆盖前 5 种语言、共 **42** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 7,488 | 0 | 0 | 8 |
+| Json | 7,468 | 0 | 0 | 8 |
 | Sh | 5,798 | 1,685 | 934 | 13 |
 | PowerShell | 3,977 | 606 | 413 | 12 |
 | Python | 3,280 | 351 | 566 | 8 |
@@ -32,40 +32,40 @@ x install junie
 
 ## 发布
 
-- **最新版本**: `4169.1` (2026-11-18)
-- **最近提交**: 2026-11-18
+- **最新版本**: `4182.1` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 567 · **Fork**: 43 · **开放 issue**: 101 · **贡献者**: 19
+- **Star**: 568 · **Fork**: 42 · **开放 issue**: 101 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 1112 · **已合并 PR**: 48 · **开放 PR**: 6 · **已关闭 issue**: 81 · **开放 issue**: 20 · **提交数**: 5249
+- **发布数**: 1126 · **已合并 PR**: 48 · **开放 PR**: 6 · **已关闭 issue**: 81 · **开放 issue**: 20 · **提交数**: 5268
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 100 | 9 | 1 | 1 | 17 | 413 |
-| last60d | 2026-09-20 | 100 | 16 | 4 | 6 | 20 | 981 |
-| 90d | 2026-08-21 | 100 | 23 | 5 | 10 | 20 | 1690 |
-| last180d | 2026-05-23 | 100 | 44 | 5 | 38 | 20 | 3698 |
-| 360d | 2025-11-24 | 100 | 47 | 6 | 76 | 20 | 5226 |
-| last720d | 2024-11-29 | 100 | 48 | 6 | 81 | 20 | 5249 |
+| 30d | 2026-10-21 | 100 | 7 | 1 | 0 | 17 | 432 |
+| last60d | 2026-09-21 | 100 | 15 | 4 | 6 | 20 | 1000 |
+| 90d | 2026-08-22 | 100 | 23 | 5 | 10 | 20 | 1709 |
+| last180d | 2026-05-24 | 100 | 44 | 5 | 38 | 20 | 3717 |
+| 360d | 2025-11-25 | 100 | 47 | 6 | 76 | 20 | 5245 |
+| last720d | 2024-11-30 | 100 | 48 | 6 | 81 | 20 | 5268 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [junie-nightly-4169.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-linux-aarch64.zip) | 161.2 MiB | `native/linux/arm64` |
-| [junie-nightly-4169.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-linux-amd64.zip) | 162.2 MiB | `native/linux/x64` |
-| [junie-nightly-4169.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-macos-aarch64.zip) | 146.5 MiB | `native/darwin/arm64` |
-| [junie-nightly-4169.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-macos-amd64.zip) | 150.6 MiB | `native/darwin/x64` |
-| [junie-nightly-4169.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-windows-aarch64.zip) | 121.6 MiB | `native/win/arm64` |
-| [junie-nightly-4169.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/4169.1/junie-nightly-4169.1-windows-amd64.zip) | 123.9 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/4169.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-4182.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-linux-aarch64.zip) | 162.5 MiB | `native/linux/arm64` |
+| [junie-nightly-4182.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-linux-amd64.zip) | 163.6 MiB | `native/linux/x64` |
+| [junie-nightly-4182.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-macos-aarch64.zip) | 148.7 MiB | `native/darwin/arm64` |
+| [junie-nightly-4182.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-macos-amd64.zip) | 152.9 MiB | `native/darwin/x64` |
+| [junie-nightly-4182.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-windows-aarch64.zip) | 122.0 MiB | `native/win/arm64` |
+| [junie-nightly-4182.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/4182.1/junie-nightly-4182.1-windows-amd64.zip) | 124.3 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/4182.1/junie.sh) | 1.1 KiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ junie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T07:03:43Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T06:56:30Z._

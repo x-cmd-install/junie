@@ -32,40 +32,40 @@ x install junie
 
 ## 发布
 
-- **最新版本**: `4210.1` (2026-11-23)
-- **最近提交**: 2026-11-23
+- **最新版本**: `4217.1` (2026-11-24)
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 573 · **Fork**: 42 · **开放 issue**: 101 · **贡献者**: 18
+- **Star**: 576 · **Fork**: 42 · **开放 issue**: 101 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 1155 · **已合并 PR**: 48 · **开放 PR**: 7 · **已关闭 issue**: 81 · **开放 issue**: 20 · **提交数**: 5315
+- **发布数**: 1163 · **已合并 PR**: 48 · **开放 PR**: 7 · **已关闭 issue**: 81 · **开放 issue**: 20 · **提交数**: 5328
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 100 | 6 | 2 | 0 | 16 | 362 |
-| last60d | 2026-09-25 | 100 | 13 | 5 | 4 | 20 | 939 |
-| 90d | 2026-08-26 | 100 | 23 | 6 | 10 | 20 | 1589 |
-| last180d | 2026-05-28 | 100 | 41 | 6 | 33 | 20 | 3617 |
-| 360d | 2025-11-29 | 100 | 47 | 7 | 76 | 20 | 5292 |
-| last720d | 2024-12-04 | 100 | 48 | 7 | 81 | 20 | 5315 |
+| 30d | 2026-10-26 | 100 | 4 | 1 | 0 | 15 | 375 |
+| last60d | 2026-09-26 | 100 | 13 | 5 | 4 | 20 | 952 |
+| 90d | 2026-08-27 | 100 | 23 | 6 | 9 | 20 | 1602 |
+| last180d | 2026-05-29 | 100 | 40 | 6 | 33 | 20 | 3630 |
+| 360d | 2025-11-30 | 100 | 47 | 7 | 76 | 20 | 5305 |
+| last720d | 2024-12-05 | 100 | 48 | 7 | 81 | 20 | 5328 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [junie-nightly-4210.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-linux-aarch64.zip) | 161.6 MiB | `native/linux/arm64` |
-| [junie-nightly-4210.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-linux-amd64.zip) | 162.6 MiB | `native/linux/x64` |
-| [junie-nightly-4210.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-macos-aarch64.zip) | 147.8 MiB | `native/darwin/arm64` |
-| [junie-nightly-4210.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-macos-amd64.zip) | 151.4 MiB | `native/darwin/x64` |
-| [junie-nightly-4210.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-windows-aarch64.zip) | 121.1 MiB | `native/win/arm64` |
-| [junie-nightly-4210.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/4210.1/junie-nightly-4210.1-windows-amd64.zip) | 123.3 MiB | `native/win/x64` |
-| [junie.sh](https://github.com/JetBrains/junie/releases/download/4210.1/junie.sh) | 1.1 KiB | `other` |
+| [junie-nightly-4217.1-linux-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-linux-aarch64.zip) | 161.8 MiB | `native/linux/arm64` |
+| [junie-nightly-4217.1-linux-amd64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-linux-amd64.zip) | 162.8 MiB | `native/linux/x64` |
+| [junie-nightly-4217.1-macos-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-macos-aarch64.zip) | 148.0 MiB | `native/darwin/arm64` |
+| [junie-nightly-4217.1-macos-amd64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-macos-amd64.zip) | 151.6 MiB | `native/darwin/x64` |
+| [junie-nightly-4217.1-windows-aarch64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-windows-aarch64.zip) | 121.3 MiB | `native/win/arm64` |
+| [junie-nightly-4217.1-windows-amd64.zip](https://github.com/JetBrains/junie/releases/download/4217.1/junie-nightly-4217.1-windows-amd64.zip) | 123.4 MiB | `native/win/x64` |
+| [junie.sh](https://github.com/JetBrains/junie/releases/download/4217.1/junie.sh) | 1.1 KiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ junie 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:38:07Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:09:03Z._
